@@ -8,16 +8,16 @@
 }
 
 table {
-  color: rgb(255, 255, 255);
+  color: #111;
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
   min-width: 300px;
-  background: #000000;
+  background: #dad8d8;
 }
 
 .header-row {
-    background: #a455ff;
+    background: #34495E;
     color: #fff
 }
 
